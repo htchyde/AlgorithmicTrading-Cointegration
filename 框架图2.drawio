@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="Page-1" id="RdUHbopJ15FUdcuSnktS">
-    <mxGraphModel dx="708" dy="448" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="821" dy="520" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="F4VM9RLazsL0ufN1rCmm-81" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="367.5" y="178" width="366" height="148" as="geometry" />
+          <mxGeometry x="368" y="175" width="366" height="148" as="geometry" />
         </mxCell>
         <mxCell id="F4VM9RLazsL0ufN1rCmm-83" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="368" y="468.5" width="366" height="175.5" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="159.13" y="666" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zpjJOaSImEKCOt8uoOfP-11" value="&lt;span style=&quot;font-size: 14px; white-space-collapse: break-spaces;&quot;&gt;竞合双重性&lt;/span&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: break-spaces;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: break-spaces; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=light-dark(#080808, #9577a3);align=center;fillColor=#e1d5e7;labelBackgroundColor=none;fontFamily=KaiTi;" parent="1" vertex="1">
-          <mxGeometry x="606" y="234" width="87.5" height="30" as="geometry" />
+          <mxGeometry x="505.75" y="234" width="87.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zpjJOaSImEKCOt8uoOfP-12" value="&lt;span style=&quot;font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: break-spaces; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;竞争网络&lt;/span&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: break-spaces;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: break-spaces;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: break-spaces; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;align=center;labelBackgroundColor=none;fillColor=#f8cecc;fontFamily=KaiTi;" parent="1" vertex="1">
           <mxGeometry x="425.5" y="345" width="60" height="30" as="geometry" />
@@ -62,11 +62,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zpjJOaSImEKCOt8uoOfP-28" value="&lt;span style=&quot;font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: break-spaces; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;合作性&lt;/span&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: break-spaces;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: break-spaces; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=default;align=center;fillColor=#cce5ff;labelBackgroundColor=none;fontFamily=KaiTi;" parent="1" vertex="1">
-          <mxGeometry x="508" y="234" width="85" height="30" as="geometry" />
+          <mxGeometry x="607" y="234" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F4VM9RLazsL0ufN1rCmm-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;align=center;fontFamily=KaiTi;" parent="1" target="zpjJOaSImEKCOt8uoOfP-43" edge="1" source="zpjJOaSImEKCOt8uoOfP-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="645.5" y="245" as="sourcePoint" />
+            <mxPoint x="545.25" y="245" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-ynDLlyv-OSlSMBmnWBN-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zpjJOaSImEKCOt8uoOfP-30" target="-ynDLlyv-OSlSMBmnWBN-1">
@@ -105,10 +105,10 @@
           <mxGeometry x="417" y="286" width="75" height="28" as="geometry" />
         </mxCell>
         <mxCell id="zpjJOaSImEKCOt8uoOfP-42" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: break-spaces;&quot;&gt;互补性专利&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=light-dark(#080808, #5c79a3);align=center;labelBackgroundColor=none;fillColor=#dae8fc;fontFamily=KaiTi;" parent="1" vertex="1">
-          <mxGeometry x="507" y="286" width="85" height="28" as="geometry" />
+          <mxGeometry x="607" y="286" width="85" height="28" as="geometry" />
         </mxCell>
         <mxCell id="zpjJOaSImEKCOt8uoOfP-43" value="&lt;span style=&quot;font-size: 14px; white-space-collapse: break-spaces;&quot;&gt;前瞻性专利&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=light-dark(#050505, #9577a3);align=center;labelBackgroundColor=none;fillColor=#e1d5e7;fontFamily=KaiTi;" parent="1" vertex="1">
-          <mxGeometry x="605.5" y="286" width="88.5" height="28" as="geometry" />
+          <mxGeometry x="505.25" y="286" width="88.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="F4VM9RLazsL0ufN1rCmm-18" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: break-spaces; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;海外专利布局质量&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: break-spaces; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=light-dark(#080808, #9577a3);align=center;labelBackgroundColor=none;fillColor=#d5e8d4;fontFamily=KaiTi;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="699" width="120" height="30" as="geometry" />
